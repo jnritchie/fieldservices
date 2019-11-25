@@ -1,0 +1,10 @@
+hooks/
+node_modules/
+platforms/
+plugins/
+
+# files
+
+package-lock.json
+package.json
+.DS_Store
